@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Trie
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0016-3sum-closest) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
