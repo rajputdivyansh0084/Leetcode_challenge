@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0045-jump-game-ii) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0045-jump-game-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0043-multiply-strings) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
