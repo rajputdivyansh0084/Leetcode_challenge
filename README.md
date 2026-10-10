@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0043-multiply-strings) |
 ## Trie
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0043-multiply-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0036-valid-sudoku) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
