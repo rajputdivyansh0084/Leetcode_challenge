@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0047-permutations-ii) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0047-permutations-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0047-permutations-ii) |
 ## Linked List
 |  |
 | ------- |
