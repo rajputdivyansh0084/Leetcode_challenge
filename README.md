@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0049-group-anagrams) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
@@ -57,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0049-group-anagrams) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0049-group-anagrams) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Backtracking
