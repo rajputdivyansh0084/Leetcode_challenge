@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0050-powx-n) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0050-powx-n) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
