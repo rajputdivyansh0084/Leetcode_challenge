@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0054-spiral-matrix) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0049-group-anagrams) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0035-search-insert-position) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
