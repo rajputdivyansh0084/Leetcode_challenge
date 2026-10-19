@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0055-jump-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0055-jump-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String Matching
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0055-jump-game) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
