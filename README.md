@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0056-merge-intervals) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0056-merge-intervals) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
