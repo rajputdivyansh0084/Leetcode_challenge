@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0057-insert-interval) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2778-sum-of-squares-of-special-elements) |
