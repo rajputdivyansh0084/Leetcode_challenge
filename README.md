@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0058-length-of-last-word) |
+| [2409-count-days-spent-together](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0050-powx-n) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
