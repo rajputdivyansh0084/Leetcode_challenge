@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String Matching
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
