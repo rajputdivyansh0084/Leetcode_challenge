@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0063-unique-paths-ii) |
 | [1254-number-of-closed-islands](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0063-unique-paths-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String Matching
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0063-unique-paths-ii) |
 | [1254-number-of-closed-islands](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
