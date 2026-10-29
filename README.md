@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0067-add-binary) |
 | [2409-count-days-spent-together](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0067-add-binary) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0067-add-binary) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0067-add-binary) |
 ## Greedy
 |  |
 | ------- |
