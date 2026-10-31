@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3665-twisted-mirror-path-count](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
