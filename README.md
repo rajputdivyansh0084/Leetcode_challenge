@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0071-simplify-path) |
 | [2409-count-days-spent-together](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0071-simplify-path) |
 ## Bracket Sequences
 |  |
 | ------- |
