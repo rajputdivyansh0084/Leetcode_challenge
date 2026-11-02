@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0072-edit-distance) |
 | [2409-count-days-spent-together](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0072-edit-distance) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3665-twisted-mirror-path-count](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3882-minimum-xor-path-in-a-grid) |
