@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0073-set-matrix-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1254-number-of-closed-islands) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0073-set-matrix-zeroes) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0073-set-matrix-zeroes) |
 | [1254-number-of-closed-islands](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3665-twisted-mirror-path-count) |
