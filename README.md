@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0075-sort-colors) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1254-number-of-closed-islands) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0075-sort-colors) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0075-sort-colors) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0075-sort-colors) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -329,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0069-sqrtx) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
