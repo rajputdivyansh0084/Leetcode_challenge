@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0079-word-search) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1254-number-of-closed-islands) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0079-word-search) |
 | [2409-count-days-spent-together](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
