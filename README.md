@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0079-word-search) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0067-add-binary) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Greedy
 |  |
 | ------- |
