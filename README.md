@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0079-word-search) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0072-edit-distance) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3665-twisted-mirror-path-count](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/3882-minimum-xor-path-in-a-grid) |
