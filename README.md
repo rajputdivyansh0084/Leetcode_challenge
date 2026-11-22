@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/0079-word-search) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/rajputdivyansh0084/Leetcode_challenge/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
